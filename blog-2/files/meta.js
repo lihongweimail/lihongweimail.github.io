@@ -56,7 +56,7 @@
 	};
  
 	// Object containing all website meta info
-	var websiteMeta = {"14502137f8d4e3ec285b3e34bc465b9f-1.html":"## 中文简历\n","d7f8b97b292f2b5a51d29f664a73f82a-0.html":"## this is my English CV\n [English CV ](http:\/\/)","archive-august-2018.html":"Archives for August 2018"};
+	var websiteMeta = {"14502137f8d4e3ec285b3e34bc465b9f-1.html":"## 中文简历\n\n [中文简历](https:\/\/github.com\/lihongweimail\/lihongweimail.github.io\/blob\/master\/downloads\/files\/HongweiCV.pdf)\n","d7f8b97b292f2b5a51d29f664a73f82a-0.html":"## this is my English CV\n [English CV ](https:\/\/github.com\/lihongweimail\/lihongweimail.github.io\/blob\/master\/downloads\/files\/HongweiCV_English.pdf)","archive-august-2018.html":"Archives for August 2018"};
  
 	// pageId must match the key in websiteMeta object
 	var url = window.location.pathname;
