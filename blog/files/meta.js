@@ -56,7 +56,7 @@
 	};
  
 	// Object containing all website meta info
-	var websiteMeta = {"b14745054090c7aeb52bc0a22c9ee0f4-3.html":"test for new blog text.","archive-august-2018.html":"Archives for August 2018","archive-july-2018.html":"Archives for July 2018","e67d4b8aac0c709c5801ce466bdcd90e-1.html":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et tellus sed odio interdum consectetur. Sed odio turpis, commodo ut justo non, digniss","ec6ba86b718a1eb8e64a97a721ac49b3-0.html":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et tellus sed odio interdum consectetur. Sed odio turpis, commodo ut justo non, digniss","b49f7679eed2e8f01cdc308cae49accf-2.html":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et tellus sed odio interdum consectetur. Sed odio turpis, commodo ut justo non, digniss"};
+	var websiteMeta = {"b14745054090c7aeb52bc0a22c9ee0f4-3.html":"## 课程简介\n     软件工程是一门研究用工程化方法构建和维护有效的、实用的和高质量的软件的学科。 它涉及程序设计语言、 数据库、软件开发工具、 系统平台、标准、设计模式等方面。本课程将教授和讨论《软件工程》的高级议题， 将复习和讨论软件工程的基本概念、技术和方法，包括软件的开发模型、软件项目管","archive-august-2018.html":"Archives for August 2018"};
  
 	// pageId must match the key in websiteMeta object
 	var url = window.location.pathname;
